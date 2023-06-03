@@ -6,8 +6,9 @@ I am a newly graduated software engineer from Canada with a fascination for all 
 - 💼 I’m currently working on [My portfolio website](https://pryzux.github.io/) and adding previous projects I've worked on to my github account [Github/Pryzux](https://github.com/Pryzux)
 - 🎓 I graduated from Computer Science at Queen's University
 - 📫 Feel feel to reach me through [email](mailto:Jaredviolo@hotmail.com), on [discord](https://discordapp.com/users/291235559848935425), [linkedin](https://www.linkedin.com/in/jaredviolo), or [twitter](https://twitter.com/Pryzux)
+- 💬 Things you can ask me about include: new tech, food, travel, networking (the people or the computer kind), PC building, video games, skateboarding, or anything else 😳
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I play competitive E-Sports and am signed by [Sarrow Gaming](https://twitter.com/TeamSarrow_)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
