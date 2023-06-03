@@ -1,15 +1,11 @@
 <h1 align="center">Welcome to Jared's Github Profile!</h1>
-<h3 align="center">A passionate software developer from Canada</h3>
 
-<p align="left"> <a href="https://twitter.com/pryzux" target="blank"><img src="https://img.shields.io/twitter/follow/pryzux?logo=twitter&style=for-the-badge" alt="pryzux" /></a> </p>
+<h3 align="left">About</h3>
+I am a newly graduated software engineer from Canada with a fascination for all technology. I love working with people, and I have a keen interest in, and passion for software design.
 
-- 🔭 I’m currently working on [My portfolio website](https://pryzux.github.io/)
-
-- 🤝 I’m looking for help with **Generative AI**
-
-- 👨‍💻 All of my projects are available at [https://pryzux.github.io](https://pryzux.github.io)
-
-- 📫 How to reach me **Jaredviolo@hotmail.com**
+- 💼 I’m currently working on [My portfolio website](https://pryzux.github.io/) and adding previous projects I've worked on to my github account [Github/Pryzux](https://github.com/Pryzux)
+- 🎓 I graduated from Computer Science at Queen's University
+- 📫 Feel feel to reach me through [email](Jaredviolo@hotmail.com), on [discord](https://discordapp.com/users/291235559848935425), [linkedin](https://www.linkedin.com/in/jaredviolo), or [twitter](https://twitter.com/Pryzux)
 
 - ⚡ Fun fact **I think I am funny**
 
