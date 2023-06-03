@@ -5,7 +5,7 @@ I am a newly graduated software engineer from Canada with a fascination for all 
 
 - 💼 I’m currently working on [My portfolio website](https://pryzux.github.io/) and adding previous projects I've worked on to my github account [Github/Pryzux](https://github.com/Pryzux)
 - 🎓 I graduated from Computer Science at Queen's University
-- 📫 Feel feel to reach me through [email](Jaredviolo@hotmail.com), on [discord](https://discordapp.com/users/291235559848935425), [linkedin](https://www.linkedin.com/in/jaredviolo), or [twitter](https://twitter.com/Pryzux)
+- 📫 Feel feel to reach me through [email](mailto:Jaredviolo@hotmail.com), on [discord](https://discordapp.com/users/291235559848935425), [linkedin](https://www.linkedin.com/in/jaredviolo), or [twitter](https://twitter.com/Pryzux)
 
 - ⚡ Fun fact **I think I am funny**
 
