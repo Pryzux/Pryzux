@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jared Violo</h1>
+<h1 align="center">Welcome to Jared's Github Profile!</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 
 <p align="left"> <a href="https://twitter.com/pryzux" target="blank"><img src="https://img.shields.io/twitter/follow/pryzux?logo=twitter&style=for-the-badge" alt="pryzux" /></a> </p>
