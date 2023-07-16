@@ -5,7 +5,7 @@ I am a newly graduated software engineer from Canada with a fascination for all 
 
 - 💼 I’m currently working on my personal website and completing my machine learning certificate!
 - 🎓 I graduated from Computer Science at Queen's University
-- 📫 Feel feel to reach me through [email](mailto:Jaredviolo@hotmail.com), on [discord](https://discordapp.com/users/291235559848935425), [linkedin](https://www.linkedin.com/in/jaredviolo), or [twitter](https://twitter.com/Pryzux)
+- 📫 Feel feel to reach me through [email](mailto:Jared.S.Violo@gmail.com), on [discord](https://discordapp.com/users/291235559848935425), [linkedin](https://www.linkedin.com/in/jaredviolo), or [twitter](https://twitter.com/Pryzux)
 - 💬 Things you can ask me about include: new tech, food, travel, networking (the people or the computer kind), PC building, video games, skateboarding, or anything else 😳
 
 - ⚡ Fun fact **I play competitive E-Sports and am signed by [Sarrow Gaming](https://twitter.com/TeamSarrow_)!**
