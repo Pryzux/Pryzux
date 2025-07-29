@@ -1,14 +1,13 @@
 <h1 align="center">Welcome to Jared's Github Profile!</h1>
 
 <h3 align="left">About</h3>
-I am a newly graduated software engineer from Canada with a fascination for all technology. I love working with people, and I have a keen interest in, and passion for software design.
+Founding Engineer for Waive.
 
-- 💼 I’m currently working on my personal website and completing my machine learning certificate!
-- 🎓 I graduated from Computer Science at Queen's University
+- 💼 I’m currently managing Waives Document Triaging Services, Non-AI Internal Development Infastructure, and a wide variety of other niches and fire fighting as I'm needed.
+- 🎓 Computer Science with a Specialization in Software Design
 - 📫 Feel feel to reach me through [email](mailto:Jared.S.Violo@gmail.com), on [discord](https://discordapp.com/users/291235559848935425), [linkedin](https://www.linkedin.com/in/jaredviolo), or [twitter](https://twitter.com/Pryzux)
-- 💬 Things you can ask me about include: new tech, food, travel, networking (the people or the computer kind), PC building, video games, skateboarding, or anything else 😳
 
-- ⚡ Fun fact **I play competitive E-Sports and am signed by [Sarrow Gaming](https://twitter.com/TeamSarrow_)!**
+- ⚡ Fun fact **I play competitive E-Sports and Runescape (If you know you know)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
