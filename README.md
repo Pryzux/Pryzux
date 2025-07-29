@@ -1,6 +1,4 @@
-<h1 align="center">Welcome to Jared's Github Profile!</h1>
-
-<h3 align="left">About</h3>
+<h3 align="center">About</h3>
 Founding Engineer for Waive.
 
 - 💼 I’m currently managing Waives Document Triaging Services, Non-AI Internal Development Infastructure, and a wide variety of other niches and fire fighting as I'm needed.
