@@ -2,11 +2,11 @@
 Founding Engineer for Waive
 
 
-- 💼 I’m currently managing Waives Document Triaging Services, Non-AI Internal Development Infastructure, and a wide variety of other niches and fire fighting as I'm needed.
+- 💼 I’m currently managing Waives Document Triaging Services & Internal Development Infastructure
 - 🎓 Computer Science with a Specialization in Software Design
 - 📫 Feel feel to reach me through [email](mailto:Jared.S.Violo@gmail.com), on [discord](https://discordapp.com/users/291235559848935425), [linkedin](https://www.linkedin.com/in/jaredviolo), or [twitter](https://twitter.com/Pryzux)
 
-⚡ Fun fact **I play competitive E-Sports and Runescape (If you know you know)**
+⚡ Fun fact **I play competitive E-Sports**
 
 <h3 align="left">Every single possible way to get in touch :)</h3>
 <p align="left">
