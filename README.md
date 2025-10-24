@@ -3,7 +3,7 @@ Founding Engineer for Waive
 
 - In New York @ Fractal Tech 
 - Managing Waives Document Triaging Services & Internal Development Infastructure
-- Computer Science with a Specialization in Software Design
+- Computer Science with a Specialization in Software Design @ Queen's University
 
 Fun fact **I play competitive E-Sports**
 
