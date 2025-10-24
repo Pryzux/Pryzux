@@ -1,13 +1,11 @@
 <h3 align="left">About</h3>
 Founding Engineer for Waive
 
-
-- I’m currently managing Waives Document Triaging Services & Internal Development Infastructure
 - In New York @ Fractal Tech 
+- Managing Waives Document Triaging Services & Internal Development Infastructure
 - Computer Science with a Specialization in Software Design
 
-
-⚡ Fun fact **I play competitive E-Sports**
+Fun fact **I play competitive E-Sports**
 
 <h3 align="left">Every single possible way to get in touch :)</h3>
 <p align="left">
