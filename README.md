@@ -2,9 +2,10 @@
 Founding Engineer for Waive
 
 
-- 💼 I’m currently managing Waives Document Triaging Services & Internal Development Infastructure
-- 🎓 Computer Science with a Specialization in Software Design
-- 📫 Feel feel to reach me through [email](mailto:Jared.S.Violo@gmail.com), on [discord](https://discordapp.com/users/291235559848935425), [linkedin](https://www.linkedin.com/in/jaredviolo), or [twitter](https://twitter.com/Pryzux)
+- I’m currently managing Waives Document Triaging Services & Internal Development Infastructure
+- In New York @ Fractal Tech 
+- Computer Science with a Specialization in Software Design
+
 
 ⚡ Fun fact **I play competitive E-Sports**
 
