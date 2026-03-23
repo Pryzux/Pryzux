@@ -1,7 +1,6 @@
 <h3 align="left">About</h3>
-Founding Engineer for SupplyCo
+- Founding Engineer for SupplyCo
 - In New York
-
 - Computer Science with a Specialization in Software Design @ Queen's University
 
 Fun fact **I play competitive E-Sports**
